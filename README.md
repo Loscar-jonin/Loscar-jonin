@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate **Electronic Engineer** dedicated
 - Cross-disciplinary tech projects
 
 ### 🛠️ Technical Skills
-- **Microcontrollers**: Arduino, STM32, ESP32, PIC
-- **Programming Languages**: C, C++, Python, Assembly
-- **Design Tools**: KiCAD, Altium, LTspice
+- **Microcontrollers**: Arduino, STM32, ESP32, PIC, Raspberry Pi Pico
+- **Programming Languages**: C, C++, Python, MATLAB
+- **Design Tools**: Proteus 8, EasyEDA, Wokwi, TinkerCAD, FreeCAD
 - **Protocols**: I2C, SPI, UART, CAN, Modbus
 - **Hardware**: PCB Design, Circuit Analysis, Signal Processing
 
