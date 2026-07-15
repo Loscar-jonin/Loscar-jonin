@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Electronic Engineer** dedicated
 - **Hardware**: PCB Design, Circuit Analysis, Signal Processing
 
 ### 😄 Fun Fact
-Electronics and problem-solving are my passions—I enjoy tackling complex hardware challenges and bringing ideas to life through innovative designs!
+Electronics and problem-solving are my passions — I enjoy tackling complex hardware challenges and bringing ideas to life through innovative designs!
 
 ---
 
