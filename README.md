@@ -27,11 +27,6 @@ Welcome to my GitHub profile! I'm a passionate **Electronic Engineer** dedicated
 - **Protocols**: I2C, SPI, UART, CAN, Modbus
 - **Hardware**: PCB Design, Circuit Analysis, Signal Processing
 
-### 📫 How to Reach Me
-- 📧 Email: [Your email]
-- 💼 LinkedIn: [Your LinkedIn profile]
-- 🌐 Website: [Your personal website]
-
 ### 😄 Fun Fact
 Electronics and problem-solving are my passions—I enjoy tackling complex hardware challenges and bringing ideas to life through innovative designs!
 
