@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm an Electronic Engineer
+---
 
 Welcome to my GitHub profile! I'm a passionate **Electronic Engineer** dedicated to designing, developing, and implementing innovative electronic solutions. I love combining hardware expertise with software development to create cutting-edge projects.
 
